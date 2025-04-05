@@ -1,0 +1,1 @@
+This repository contains all code and data related to the first B-GSM validataion paper: The Bayesian Global Sky Model (B-GSM): Validation of a Data Driven Bayesian Simultaneous Component Separation and Calibration Algorithm for EoR Foreground Modelling (https://arxiv.org/abs/2501.01417)
